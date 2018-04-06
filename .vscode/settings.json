@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "E:\\Thoughts\\programs\\python3\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.flake8Enabled": false,
+    "python.linting.enabled": true,
+    "python.linting.flake8CategorySeverity.W": "Error",
+    "python.linting.lintOnSave": false
+}
